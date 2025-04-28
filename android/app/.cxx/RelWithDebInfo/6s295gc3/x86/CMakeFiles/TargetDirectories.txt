@@ -1,0 +1,2 @@
+C:/science_seekrz/android/app/.cxx/RelWithDebInfo/6s295gc3/x86/CMakeFiles/edit_cache.dir
+C:/science_seekrz/android/app/.cxx/RelWithDebInfo/6s295gc3/x86/CMakeFiles/rebuild_cache.dir

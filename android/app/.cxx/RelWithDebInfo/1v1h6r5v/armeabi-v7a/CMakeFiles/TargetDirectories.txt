@@ -1,0 +1,2 @@
+C:/science_seekrz/android/app/.cxx/RelWithDebInfo/1v1h6r5v/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/science_seekrz/android/app/.cxx/RelWithDebInfo/1v1h6r5v/armeabi-v7a/CMakeFiles/rebuild_cache.dir

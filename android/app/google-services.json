@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852442158629",
+    "project_id": "science-seekrz",
+    "storage_bucket": "science-seekrz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852442158629:android:f2529192f10dcad0b4d1cc",
+        "android_client_info": {
+          "package_name": "com.example.science_seekrz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZN0Wj1NhdZ_lQgRflCiafEbELYMsq7f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

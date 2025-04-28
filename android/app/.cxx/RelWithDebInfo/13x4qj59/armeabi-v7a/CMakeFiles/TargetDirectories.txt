@@ -1,0 +1,2 @@
+E:/flutter_projects/science_seekrz/android/app/.cxx/RelWithDebInfo/13x4qj59/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/flutter_projects/science_seekrz/android/app/.cxx/RelWithDebInfo/13x4qj59/armeabi-v7a/CMakeFiles/rebuild_cache.dir
